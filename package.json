@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsc index.tsx && node index.js",
-    "watch": "ts-node-dev index.tsx --compileOnly"
+    "dev": "ts-node index.ts",
+    "watch": "ts-node-dev index.ts --compileOnly"
   },
   "keywords": [],
   "author": "",
